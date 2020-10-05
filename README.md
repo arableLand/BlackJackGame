@@ -1,2 +1,2 @@
 # BlackJackGame
-My first Java Project <BlackJack Game>
+My Java Project <BlackJack Game>
